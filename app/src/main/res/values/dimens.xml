@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_welcome">32sp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="card_register_top">32dp</dimen>
+    <dimen name="card_register_horizontal">32dp</dimen>
+    <dimen name="card_register_padding">16dp</dimen>
+    <dimen name="card_register_elev">16dp</dimen>
+    <dimen name="edittext_padding">8dp</dimen>
+    <dimen name="size_personal_info">18sp</dimen>
+    <dimen name="margin_top_button">10dp</dimen>
+    <dimen name="profile_text">32sp</dimen>
+</resources>

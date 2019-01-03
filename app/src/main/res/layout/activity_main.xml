@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnregister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/register"
+            />
+
+        <Button
+            android:id="@+id/btnlistdata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/list_data"
+            android:onClick="onBtnListClick"
+            />
+
+        <Button
+            android:id="@+id/btnpindahactivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pindah_activity"
+            />
+
+        <Button
+            android:id="@+id/btninput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/input_data"
+            />
+
+        <Button
+            android:id="@+id/btnwebview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/web_view"
+            />
+
+        <Button
+            android:id="@+id/btndialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog"
+            />
+
+    </LinearLayout>
+
+</ScrollView>
+<!--penulisan id pada xml di tulis dengan huruf kecil semua-->

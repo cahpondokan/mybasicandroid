@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Basic Android</string>
+    <string name="register">register</string>
+    <string name="list_data">list data</string>
+    <string name="pindah_activity">pindah activity</string>
+    <string name="input_data">input data</string>
+    <string name="web_view">web view</string>
+    <string name="dialog">dialog</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enter_info">Enter Your Personal Info</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btn_sign_in">sign in</string>
+    <string name="show_password">show password</string>
+    <string-array name="nama_hewan">
+        <item>Ayam</item>
+        <item>Ikan</item>
+        <item>Buaya</item>
+        <item>Angsa</item>
+        <item>Lalat</item>
+        <item>Capung</item>
+        <item>Belalang</item>
+        <item>Kodok</item>
+        <item>Kucing</item>
+        <item>Kelinci</item>
+        <item>Jerapah</item>
+        <item>Kudanil</item>
+        <item>Semut</item>
+    </string-array>
+</resources>
